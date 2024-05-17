@@ -32,5 +32,10 @@ ISSUER: The issuer of the JWT token.
 ```sh
 npm start
 
-Additional InformationScriptsnpm start: Starts the application.npm install: Installs all dependencies listed in package.json.Dependencies
-This project relies on various Node.js packages, which are listed in the package.json file. Make sure to install them using npm install before starting the application.
+**Additional Information**
+Scripts
+   - npm start: Starts the application.
+   - npm install: Installs all dependencies listed in package.json.Dependencies
+
+This project relies on various Node.js packages, which are listed in the package.json file. 
+Make sure to install them using npm install before starting the application.

@@ -31,6 +31,7 @@ ISSUER: The issuer of the JWT token.
 3 **Start the Application**
 ```sh
 npm start
+```
 
 **Additional Information**
 Scripts
